@@ -1,10 +1,10 @@
-MD Github Flavored Wordcount
+Markdown Github Flavored Wordcount
 ===========
 
-###Project Info
-Louis Bouddhou, Alex Campbell, Josh Fermin, Edward Zhu
-Written for CSCI 3155 - Principles of Programming Languages
-University of Colorado Boulder
+###Project Info:
+<p>Louis Bouddhou, Alex Campbell, Josh Fermin, Edward Zhu.</p>
+<p>Written for CSCI 3155 - Principles of Programming Languages</p>
+<p>University of Colorado Boulder</p>
 
 
 ###Use:
