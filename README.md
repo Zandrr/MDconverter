@@ -6,7 +6,6 @@ Markdown Github Flavored Wordcount
 <p>Written for CSCI 3155 - Principles of Programming Languages</p>
 <p>University of Colorado Boulder</p>
 
-
 ###Use:
 	1. Download this directory.
 	2. Cd into the new directory.
