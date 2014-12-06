@@ -14,6 +14,6 @@ Markdown Github Flavored Wordcount
 	4. prints to console the amount of words in the given document.
 
 ###Example Usage:
-	>$ php wordcount.php https://raw.githubusercontent.com/joshfermin/myCUplanner/master/README.md
+	> php wordcount.php https://raw.githubusercontent.com/joshfermin/myCUplanner/master/README.md
 
 
