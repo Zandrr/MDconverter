@@ -9,7 +9,11 @@ require('Parsedown.php');
     $str = $Parsedown->text($str);
     $str = preg_replace('/<(code|style|blockquote)(?:(?!<\/\1).)*?<\/\1>/s', '', $str);
     $str = preg_replace("/\```[^)]+\```/", '', $str); //remove all between ```
-    print_r(str_word_count(preg_replace('/[^a-z0-9]/i', '_', strip_tags(strtolower($str))), 0));
+   	$str = preg_replace('/[^a-z0-9]/i', '_', strip_tags(strtolower($str)), 0);
+   	$str = preg_replace('/[.]/', '', $str);
+   	// print_r
+	// print($str);
+    print_r(str_word_count($str, 0));
 // Script example.php
 ?>
 
