@@ -15,3 +15,9 @@ Markdown Github Flavored Wordcount
 ###Example Usage:
 	> php wordcount.php https://raw.githubusercontent.com/Zandrr/MDconverter/master/README.md
 
+###Tests:
+<p> To run tests do the following: </p>
+	1. cd into tests directory
+	2. > sh tests.sh
+	
+
